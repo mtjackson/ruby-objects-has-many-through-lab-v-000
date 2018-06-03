@@ -9,4 +9,6 @@ class Appointment
     @date = date
     @@all << self
   end
+
+  def all
 end
